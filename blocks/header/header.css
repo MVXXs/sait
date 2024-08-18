@@ -1,0 +1,5 @@
+.header {
+    max-height: 223px;
+    display: flex;
+    justify-content: space-between;
+}

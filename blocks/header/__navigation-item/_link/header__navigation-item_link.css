@@ -1,0 +1,13 @@
+.header__navigation-item_link {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-size: 24px;
+    line-height: 33.12px;
+    font-weight: 400;
+}
+
+.header__navigation-item_link:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

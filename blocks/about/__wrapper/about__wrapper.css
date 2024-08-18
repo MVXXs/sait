@@ -1,0 +1,11 @@
+.about__wrapper {
+    max-width: 550px;
+    max-height: 202px;
+    border-left: 3px solid white;
+}
+
+@media screen and (max-width: 768px){
+    .about__wrapper {
+        margin-left: 5px;
+    }
+}

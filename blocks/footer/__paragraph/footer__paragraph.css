@@ -1,0 +1,12 @@
+.footer__paragraph {
+    color: #FFFFFF;
+    margin: 0;
+    padding: 45px 0 45px 124px;
+}
+
+@media screen and (max-width: 768px){
+    .footer__paragraph {
+        text-align: center;
+        padding: 15px 0 45px 0;
+    }
+}

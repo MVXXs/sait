@@ -1,0 +1,10 @@
+.area__card-item {
+    color: white;
+    padding-top: 4px;
+}
+
+@media screen and (max-width: 768px){
+    .area__card-item {
+        font-size: 11px;
+    }
+}

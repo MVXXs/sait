@@ -1,0 +1,11 @@
+.contacts {
+    background-color: #CCCCCC;
+    /* height: 100vh; */
+    padding-bottom: 250px;
+}
+
+@media screen and (max-width: 768px){
+    .contacts {
+        width: 100%;
+    }
+}

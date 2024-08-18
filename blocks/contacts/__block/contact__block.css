@@ -1,0 +1,13 @@
+.contact__block {
+    width: 322px;
+    height: 418px;
+    /* border: 1px solid black; */
+    margin-right: 25px;
+}
+
+@media screen and (max-width: 768px){
+    .contact__block {
+        margin-right: 0;
+        margin-bottom: 25px;
+    }
+}

@@ -1,0 +1,9 @@
+.area__cards {
+    max-width: 707px;
+    height: 231px;
+    border: 1px solid black;
+    background-color: #21282E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

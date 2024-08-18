@@ -1,0 +1,9 @@
+.feedback-area__card-item {
+    padding-top: 4px;
+}
+
+@media screen and (max-width: 768px){
+    .feedback-area__card-item {
+        font-size: 11px;
+    }
+}

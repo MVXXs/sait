@@ -1,0 +1,14 @@
+.about__photo {
+    position: relative;
+    bottom: 100px;
+    left: 167px;
+}
+
+@media screen and (max-width: 768px){
+    .about__photo {
+        width: 150px;
+        height: 150px;
+        bottom: 55px;
+        left: 130px;
+    }
+}

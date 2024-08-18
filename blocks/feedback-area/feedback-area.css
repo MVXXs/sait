@@ -1,0 +1,14 @@
+.feedback-area {
+    max-width: 1565px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(700px, 1fr));
+    grid-row-gap: 50px;
+    grid-column-gap: 100px;
+}
+
+@media screen and (max-width: 768px){
+    .feedback-area {
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-row-gap: 30px;
+    }
+}

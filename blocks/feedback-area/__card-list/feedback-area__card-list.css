@@ -1,0 +1,16 @@
+.feedback-area__card-list {
+    color: white;
+    list-style: none;
+    padding-top: 15px;
+    margin: 0;
+}
+
+.feedback-area__card-list:last-child {
+    color: #FDF08E;
+}
+
+@media screen and (max-width: 768px){
+    .feedback-area__card-list {
+        padding-top: 5px;
+    }
+}

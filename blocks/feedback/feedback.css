@@ -1,0 +1,15 @@
+.feedback {
+    margin: 0;
+    padding: 0;
+    padding-left: 124px;
+    padding-top: 120px;
+    padding-bottom: 200px;
+    background-color: #20262D;
+}
+
+@media screen and (max-width: 768px){
+    .feedback {
+        padding-left: 15px;
+        padding-right: 10px;
+    }
+}

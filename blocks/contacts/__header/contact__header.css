@@ -1,0 +1,8 @@
+.contact__header {
+    height: 341px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FFFFFF;
+}

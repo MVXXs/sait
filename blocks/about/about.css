@@ -1,0 +1,12 @@
+.about {
+    display: flex;
+    margin-top: 311px;
+    justify-content: center;
+}
+
+@media screen and (max-width: 768px){
+    .about {
+        flex-direction: column-reverse;
+        margin-top: 111px;
+    }
+}

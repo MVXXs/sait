@@ -1,0 +1,19 @@
+.about__title {
+    max-width: 474px;
+    max-height: 88px;
+    font-family: 'Helvetica', Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.12px;
+    padding-left: 80px;
+    padding-bottom: 25px;
+    margin: 0;
+}
+
+@media screen and (max-width: 768px){
+    .about__title {
+        font-size: 18px;
+        padding-left: 15px;
+    }
+}
